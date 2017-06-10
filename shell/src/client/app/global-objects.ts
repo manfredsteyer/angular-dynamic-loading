@@ -1,0 +1,2 @@
+
+export const gloalObjects: any = { };
