@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "scripts": {
     "build": "gulp build",
-    "start": "live-server --port=8080 --cors dist"
+    "start": "live-server --port=8080 --cors dist",
     "build:watch": "gulp",
     "docs": "npm run docs:build",
     "docs:build": "compodoc -p tsconfig.json -n plugin-rollup -d docs --hideGenerator",
